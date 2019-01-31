@@ -1,0 +1,121 @@
+body {
+  font-family: Arial;
+  padding: 10px;
+  background-image: url("img/bc2.jpg");
+   background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: 'Courgette', cursive;
+  font-size:15px;
+}
+.header {
+  padding: 30px;
+  text-align: center;
+}
+
+.header h1 {
+  font-size:50px;
+}
+.header h2 {
+  font-size: 30px;
+}
+.aboutme {
+  padding: 30px;
+  text-align: center;
+  background: #F1A457;
+}
+/* Change color on hover */
+.aboutme h1 {
+  font-size: 25px;
+}
+.basicdetails {
+  padding: 30px;
+  text-align: leftwards;
+  background: lighter;
+}
+.basicdetails h1 {
+  font-size: 20px;
+}
+.skills {
+  font-family: calibri;
+  padding: 10px;
+  text-align: center;
+  background: #808000;
+}
+/* Change color on hover */
+.skills h1 {
+  font-family: calibri;
+  font-size: 25px;
+}
+.skillsdetails {
+  padding: 30px;
+  text-align: leftwards;
+  background: lighter;
+}
+.skillsdetails h1 {
+  font-size: 20px;
+}
+.skillsdetails p {
+  font-size: 20px;
+}
+
+.projects {
+  font-family: calibri;
+  padding: 10px;
+  text-align: center;
+  background: #CD5C5C;
+}
+/* Change color on hover */
+.projects h1 {
+  font-family: calibri;
+  font-size: 25px;
+}
+.projectdetails {
+  padding: 40px;
+  text-align: leftwards;
+  background: lighter;
+
+}
+.projectdetails h1 {
+  font-size: 20px;
+}
+.projectdetails p {
+  font-size: 20px;
+}
+.hobies {
+  font-family: calibri;
+  padding: 10px;
+  text-align: center;
+  background: #2772B5;
+}
+/* Change color on hover */
+.hobies h1 {
+  font-family: calibri;
+  font-size: 25px;
+}
+.hobiesdetails{
+  padding: 20px;
+  text-align: leftwards;
+  background: lighter;
+}
+.hobiesdetails h1 {
+  font-size: 20px;
+}
+.edu {
+  font-family: calibri;
+  padding: 10px;
+  text-align: center;
+  background: #028962;
+}
+/* Change color on hover */
+.edu h1 {
+  font-family: calibri;
+  font-size: 25px;
+}
+.edudetails {
+  padding: 30px;
+  text-align: leftwards;
+  background: lighter;
+}
+.edudetails h1 {
+  font-size: 20px;
+}
